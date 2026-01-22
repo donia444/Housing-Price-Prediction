@@ -1,4 +1,4 @@
-# Housing-Price-Prediction
+
 # 🏠 Housing Price Prediction & Market Analysis
 
 ## 📌 Project Overview
@@ -7,7 +7,7 @@ This project builds a Machine Learning model to predict housing prices based on 
 **Key Objectives:**
 1.  **Data Cleaning:** identifying and removing outliers and filling missing housing data.
 2.  **Correlation Analysis:** Using Heatmaps to find strong relationships between median income and house value.
-3.  **Predictive Modeling:** Training a Regression model to predict property prices with high accuracy.
+
 
 ## 🛠️ Tech Stack
 * **Core:** Python, Pandas, NumPy
